@@ -25,6 +25,6 @@ export const portugal: Country = {
     multipliers: {
       common: [9, 8, 7, 6, 5, 4, 3, 2]
     },
-    regex: [/^(PT)(\d{9})$/]
+    regex: [/^(PT)([1-35]\d{8})$/]
   }
 };

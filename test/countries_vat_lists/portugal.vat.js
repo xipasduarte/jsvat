@@ -53,4 +53,12 @@ export const valid = [
 
 export const validOnlyByFormat = ['PT100000012', 'PT100000013', 'PT100000014', 'PT100000015'];
 
-export const invalid = ['PT502757192', 'PT100000012', 'PT100000022', 'PT100000032', 'PT100000192', 'PT100000052'];
+export const invalid = [
+  'PT502757192',
+  'PT100000012',
+  'PT100000022',
+  'PT100000032',
+  'PT100000192',
+  'PT100000052',
+  'PT000000000'
+];
